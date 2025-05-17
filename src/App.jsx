@@ -32,7 +32,7 @@ export const App = () => {
               onClick={() => {
                 setGood('');
               }}
-            />
+              ></button>
           </>
         ) : (
           <>No goods selected</>
